@@ -5,8 +5,8 @@
   "title": "Data Scientist",
   "community_contributions": [
     {
+      "community": "AI Tinkerers",
       "role": "Paris Organizer",
-      "organization": "AI Tinkerers",
       "description": "Organizing AI Tinkerers events in Paris"
     }
   ]
