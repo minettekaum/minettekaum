@@ -2,7 +2,7 @@
 ```
 {
   "name": "Minette Kaunismäki",
-  "title": "Data Scientist",
+  "title": "Developer Advocate",
   "community_contributions": [
     {
       "community": "AI Tinkerers",
